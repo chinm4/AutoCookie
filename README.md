@@ -1,0 +1,2 @@
+# AutoCookie
+Automates Cookie Clicker 
